@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CardCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Cards>
+    <Card>
+      <name>ABAC</name>
+      <value>Attribute Based Access Control</value>
+    </Card>
+    <Card>
+      <name>ALE</name>
+      <value>Annual Loss Expectancy</value>
+    </Card>
+    <Card>
+      <name>APT</name>
+      <value>Advanced Persistent Threat</value>
+    </Card>
+    <Card>
+      <name>ARO</name>
+      <value>Annualized Rate of Occurrence</value>
+    </Card>
+    <Card>
+      <name>BIA</name>
+      <value>Business Impact Analysis</value>
+    </Card>
+    <Card>
+      <name>BPA</name>
+      <value>Business Partners Agreement</value>
+    </Card>
+    <Card>
+      <name>CASB</name>
+      <value>Cloud Access Security Broker</value>
+    </Card>
+    <Card>
+      <name>CBP</name>
+      <value>Cipher Block Chaining. A mode of operation used by some symmetric encryption ciphers. It uses an IV for the first block and each subsequent block is combined with the previous block.</value>
+    </Card>
+    <Card>
+      <name>CCMP</name>
+      <value>Counter Mode with Cyber Block Chaining</value>
+    </Card>
+    <Card>
+      <name>CER</name>
+      <value>Canonical Encoding Rules</value>
+    </Card>
+    <Card>
+      <name>CERT</name>
+      <value>Computer Emergency Response Team</value>
+    </Card>
+    <Card>
+      <name>CHAP</name>
+      <value>Challenge Handshake Authentication Protocol</value>
+    </Card>
+    <Card>
+      <name>CIRT</name>
+      <value>Cyber Incident Response Team</value>
+    </Card>
+    <Card>
+      <name>COPE</name>
+      <value>Corporate Owned Personally Enabled</value>
+    </Card>
+    <Card>
+      <name>CRL</name>
+      <value>Certificate Revocation List</value>
+    </Card>
+    <Card>
+      <name>CTM</name>
+      <value>Counter Mode (IV + Counter)</value>
+    </Card>
+    <Card>
+      <name>DAC</name>
+      <value>Discretionary Access Control</value>
+    </Card>
+    <Card>
+      <name>DEP</name>
+      <value>Data Execution Prevention</value>
+    </Card>
+    <Card>
+      <name>DER</name>
+      <value>Distinguished Encoding Rules. PKI certificates. They are BASE64 binary encoded files. Compare with CER.</value>
+    </Card>
+    <Card>
+      <name>DES</name>
+      <value>Data Encryption Standard</value>
+    </Card>
+    <Card>
+      <name>DHE</name>
+      <value>Diffie-Hellman Ephemerl (Share Keys)</value>
+    </Card>
+    <Card>
+      <name>DNS</name>
+      <value>Domain Name System Port 53</value>
+    </Card>
+    <Card>
+      <name>DSA</name>
+      <value>Digital Signature Algorithm</value>
+    </Card>
+    <Card>
+      <name>EAP</name>
+      <value>Extensible Authentication Protocol</value>
+    </Card>
+    <Card>
+      <name>ECB</name>
+      <value>Electronic Code Book</value>
+    </Card>
+    <Card>
+      <name>ECDHE</name>
+      <value>Elliptical Curve DHE</value>
+    </Card>
+    <Card>
+      <name>ESP</name>
+      <value>Encapsulating</value>
+    </Card>
+    <Card>
+      <name>FAR</name>
+      <value>FALSE Acceptance Rate</value>
+    </Card>
+    <Card>
+      <name>FISMA</name>
+      <value>Federal Information Security Management (ACT)</value>
+    </Card>
+    <Card>
+      <name>FDE</name>
+      <value>Full Disk Encryption</value>
+    </Card>
+    <Card>
+      <name>FRR</name>
+      <value>False Rejection Rate</value>
+    </Card>
+    <Card>
+      <name>FTPS</name>
+      <value>TCP ports 989 990</value>
+    </Card>
+    <Card>
+      <name>GCM</name>
+      <value>Galoise Counter Mode</value>
+    </Card>
+    <Card>
+      <name>GPO</name>
+      <value>Group Policy Object</value>
+    </Card>
+    <Card>
+      <name>HMAC</name>
+      <value>HASH-BASED Message Based Auth Code</value>
+    </Card>
+    <Card>
+      <name>HOTP</name>
+      <value>HMAC - based One Time Password</value>
+    </Card>
+    <Card>
+      <name>HSM</name>
+      <value>Hardware Security Module for RSA keys</value>
+    </Card>
+    <Card>
+      <name>ICS</name>
+      <value>Industrial Control System</value>
+    </Card>
+    <Card>
+      <name>IMAP4</name>
+      <value>TCP Port 143</value>
+    </Card>
+    <Card>
+      <name>IoC</name>
+      <value>Indicators of Compromise</value>
+    </Card>
+    <Card>
+      <name>IRP</name>
+      <value>Incident Response Plan</value>
+    </Card>
+    <Card>
+      <name>ISA</name>
+      <value>Interconnection Security Agreement</value>
+    </Card>
+    <Card>
+      <name>IV</name>
+      <value>Initialization Vector</value>
+    </Card>
+    <Card>
+      <name>KDC aka TGT</name>
+      <value>Key Distribution Center  -  Kerberos</value>
+    </Card>
+    <Card>
+      <name>MAC</name>
+      <value>Mandatory Access Control need to know</value>
+    </Card>
+    <Card>
+      <name>MAC</name>
+      <value>HW Address</value>
+    </Card>
+    <Card>
+      <name>MD5</name>
+      <value>Message Digest 5 hashing</value>
+    </Card>
+    <Card>
+      <name>MDM</name>
+      <value>Mobile Device Management</value>
+    </Card>
+    <Card>
+      <name>MFD’s</name>
+      <value>Multi Function Device(s)</value>
+    </Card>
+    <Card>
+      <name>MMS</name>
+      <value>Multimedia Messaging Service extends SMS</value>
+    </Card>
+    <Card>
+      <name>MOU/MOA</name>
+      <value>Memo of Understanding/Agreement</value>
+    </Card>
+    <Card>
+      <name>MS-CHAPv2</name>
+      <value>Microsoft Challenge Handshake Authentication Protocol version 2. 
+      Microsoft implementation of CHAP. MS-CHAPv2 provides mutual authentication.
+      Compare with CHAP and PAP.</value>
+    </Card>
+    <Card>
+      <name>MTBF</name>
+      <value>Failure</value>
+    </Card>
+    <Card>
+      <name>MTBR</name>
+      <value>Recovery</value>
+    </Card>
+    <Card>
+      <name>NAC</name>
+      <value>Network Access Control</value>
+    </Card>
+    <Card>
+      <name>NFC</name>
+      <value>Near Field Communications</value>
+    </Card>
+    <Card>
+      <name>NTLM</name>
+      <value>New Technology LAN Manager</value>
+    </Card>
+    <Card>
+      <name>OCSP</name>
+      <value>Online Certificate Status Policy</value>
+    </Card>
+    <Card>
+      <name>OSINT</name>
+      <value>Open Source Inteligence</value>
+    </Card>
+    <Card>
+      <name>P12</name>
+      <value>PKI Binary Cert (PKCS#12) (File extension)</value>
+    </Card>
+    <Card>
+      <name>P7B</name>
+      <value>PKI ASCII Cert (PKCS#7) (File extension)</value>
+    </Card>
+    <Card>
+      <name>PAP</name>
+      <value>Password Authentication Protocol</value>
+    </Card>
+    <Card>
+      <name>PBKDF2</name>
+      <value>Password Based Key Devition Function 2. Salts PW</value>
+    </Card>
+    <Card>
+      <name>PEAP</name>
+      <value>Protected Extensible Auth Protocol Used w 802.1x requires cert.</value>
+    </Card>
+    <Card>
+      <name>PEM</name>
+      <value>Privacy Enhanced Mail (File extension) CER ASCII OR DER Binary formats</value>
+    </Card>
+    <Card>
+      <name>PFX</name>
+      <value>Personal Information Exchange (File extension)</value>
+    </Card>
+    <Card>
+      <name>PIV</name>
+      <value>Personal Identity Verification</value>
+    </Card>
+    <Card>
+      <name>POP3</name>
+      <value>Post Office Protocol Port 110</value>
+    </Card>
+    <Card>
+      <name>RIPEMD</name>
+      <value>RACE Integrity Primitives Evaluation Message Digest Hash 128,160,256,320 bits.</value>
+    </Card>
+    <Card>
+      <name>RMF</name>
+      <value>Risk Management Framework NIST</value>
+    </Card>
+    <Card>
+      <name>RPO</name>
+      <value>Recoveery Point Objective (BIA)</value>
+    </Card>
+    <Card>
+      <name>RSA</name>
+      <value>Encryption Asymetric</value>
+    </Card>
+    <Card>
+      <name>RSTP</name>
+      <value>Rapid Spanning Tree Protocol</value>
+    </Card>
+    <Card>
+      <name>RTO</name>
+      <value>Recovery Time Objective</value>
+    </Card>
+    <Card>
+      <name>S/MIME</name>
+      <value>Secure/Multipurpose Internet Mail Extension</value>
+    </Card>
+    <Card>
+      <name>SFTP</name>
+      <value>Over SSH port 22</value>
+    </Card>
+    <Card>
+      <name>SHA (1,2,3)</name>
+      <value>Secure Hash Algorithm</value>
+    </Card>
+    <Card>
+      <name>SIEM</name>
+      <value>Security Information and Event Management</value>
+    </Card>
+    <Card>
+      <name>SLA</name>
+      <value>Service Level Argeement</value>
+    </Card>
+    <Card>
+      <name>SLE</name>
+      <value>Single Loss Expectancy</value>
+    </Card>
+    <Card>
+      <name>SMS</name>
+      <value>Short Message Service</value>
+    </Card>
+    <Card>
+      <name>SNMPv3</name>
+      <value>Simple Network Management Protocol version 3</value>
+    </Card>
+    <Card>
+    <name>SMTP</name>
+    <value>Simple Mail Transport Protocol Port 25, 465, 587, 2525</value>
+    </Card>
+    <Card>
+      <name>SoC</name>
+      <value>System on a Chip</value>
+    </Card>
+    <Card>
+      <name>SOX</name>
+      <value>Sarbanes-Oxly Act</value>
+    </Card>    
+    <Card>
+      <name>SRTP</name>
+      <value>Secure Real-time Transport Protocol</value>
+    </Card>
+    <Card>
+      <name>SSID</name>
+      <value>Service Set Identifier WiFi</value>
+    </Card>
+    <Card>
+    <name>SSH</name>
+    <value>Secure SH Port 22</value>
+    </Card>
+    <Card>
+      <name>SSL decryptors</name>
+      <value>Devices used to create separate SSL (or TLS) sessions. They allow other security devices to examine encrypted traffic sent to and from the Internet.</value>
+    </Card>
+    <Card>
+      <name>STARTTLS—A</name>
+      <value>command (not an acronym) used to upgrade an unencrypted connection to an encrypted connection on the same port.</value>
+    </Card>
+    <Card>
+      <name>STIX</name>
+      <value>Structured Threat Information Expression</value>
+    </Card>
+    <Card>
+      <name>STP</name>
+      <value>Spanning Tree Protocol. A protocol enabled on most switches that protects against switching loops. A switching loop can be caused if two ports of a switch are connected.</value>
+    </Card>
+    <Card>
+      <name>Telnet</name>
+      <value>Port 23.</value>
+    </Card>
+    <Card>
+      <name>TACACS+</name>
+      <value>Terminal Access Controller Access-Control System Plus. An authentication service that provides central authentication for remote access clients. It can be used as an alternative to RADIUS.</value>
+    </Card>
+    <Card>
+      <name>TKIP</name>
+      <value>Temporal Key Integrity Protocol. A legacy wireless security protocol. CCMP is the recommended replacement.</value>
+    </Card>
+    <Card>
+      <name>XSRF</name>
+      <value>Cross Site Request Forgery</value>
+    </Card>
+    <Card>
+      <name>XSS</name>
+      <value>Cross site scripting</value>
+    </Card>
+  </Cards>
+</CardCollection>
